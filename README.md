@@ -1,6 +1,6 @@
 # TwilioPhoneCallApp v1.0.0
 
-This is a Web Application for making outgoing phone calls using Node.js framework and Twilio API modules from NPM based on [Twilio Docs](https://www.twilio.com/docs/voice/quickstart/node)
+This is a Web Application for making outgoing phone calls using Node.js framework and Twilio helper library from NPM based on [Twilio Docs](https://www.twilio.com/docs/voice/quickstart/node) and [Twilio library](https://www.npmjs.com/package/twilio)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
