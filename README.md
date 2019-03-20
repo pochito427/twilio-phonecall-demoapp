@@ -23,10 +23,10 @@ For environment configuration instructions, please check this documentation on [
 
 ## Deployment instructions
 
-Before database creation and initialization, check if you are on project root directory and run on your console or CLI next command for installing dependencies:
+Before running this project, check if you are on project root directory and run on your console or CLI next command for installing dependencies:
 npm install
 
-After database creation and initialization, check if you are on project root directory and run on your console or CLI next command:
+After that, check if you are on project root directory and run on your console or CLI next command:
 node make_call.js
 
 Check on your console or CLI if your localhost server is running.
