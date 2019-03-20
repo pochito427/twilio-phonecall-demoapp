@@ -1,0 +1,17 @@
+{
+  "name": "node-sms-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send_sms.js",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "twilio": "^3.29.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node make_call.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
